@@ -1,0 +1,52 @@
+html,
+body {
+    background-color: white;
+}
+
+.hero {
+    background-color: #0824f2;
+    padding: 20px;
+}
+
+.hero .logo {
+    width: 100px;
+    height: auto;
+}
+
+.hero h1 {
+    color:white;
+    text-transform: uppercase;
+}
+
+nav.menu {
+    background-color: #333;
+    padding: 10px;
+}
+nav.menu ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+nav.menu ul li {
+    margin-right: 20px;
+}
+nav.menu ul li a {
+    color: white;
+    text-decoration: none;
+}
+
+.admin_panel {
+    margin-left: auto;
+    background-color: #07559e;
+    padding: 5px 10px;
+    border-radius: 20px;
+}
+main.conteudo {
+    padding: 20px;
+}
+foot.rodape {
+    background-color: #f0f0f0;
+    padding: 20px;
+    text-align: center;
+}
